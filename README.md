@@ -1,7 +1,7 @@
 # Academic Writing
 Tips for academic writing
 
-[ Collections of suggestions by Jessica Rodrigues ] (https://twitter.com/rodriguesjm6/status/1436355550388932614?s=20), **Jessica Rodrigues**, 2021
+[Collections of suggestions by Jessica Rodrigues](https://twitter.com/rodriguesjm6/status/1436355550388932614?s=20), **Jessica Rodrigues**, 2021
 
 [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5), **Savage and Yeh**, *Nature*, 2019 
 
